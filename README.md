@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gaalmonte
 - 👀 I’m interested in becoming a full stack developer!
-- 🌱 I’m currently working on a tennis browser game.
+- 🌱 I’m currently working on a 2d breakout browser game.
 - 📫 You can reach me at german.a.almonte@gmail.com and I'll respond within 24 hours :)
 
 <!---
