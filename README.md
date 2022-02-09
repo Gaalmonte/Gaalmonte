@@ -13,7 +13,7 @@
 * :raised_hands: I'm currently learning React with plans to learn Threejs, Python, Java and C++.
 
 ## :computer: Currently working on:
-<a href="https://github.com/Gaalmonte/my-Portfolio">My Portfolio using React</a>
+<a href="https://github.com/Gaalmonte/My_Portfolio">My Portfolio using React</a>
 
 <a href="https://github.com/Gaalmonte/Phaser-Game">A collaborative phaserJS dungeon crawler game</a>
 
