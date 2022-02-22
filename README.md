@@ -10,7 +10,7 @@
 
 * As a hobby I enjoy playing video games, reading personal development books and learning new languages (including coding!).
 
-* :raised_hands: I'm currently learning NoSQL with plans to learn Threejs, Python, Java and C++.
+* :raised_hands: I'm currently learning SQLDM with plans to learn Threejs, Python, Java and C++.
 
 ## :computer: Currently working on:
 
