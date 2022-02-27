@@ -16,7 +16,7 @@
 
 <a href="https://react-firebasesuperchat.herokuapp.com/"> A React & Firebase Chat with Google Authentication </a>
 
-<a href="https://github.com/Gaalmonte/My_Portfolio">My Portfolio using React</a>
+<a href="https://germanalmonte.herokuapp.com/">My Portfolio using React</a>
 
 <a href="https://github.com/Gaalmonte/Phaser-Game">A collaborative phaserJS dungeon crawler game</a>
 
