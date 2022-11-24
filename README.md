@@ -6,7 +6,7 @@ Software Developer
 
 I'm a software Developer attending NJIT's Software Developer Bootcamp, I am also in the process of finishing my computer science bachelor's degree at NJIT. As a hobby I enjoy playing video games, reading personal development books and learning new languages (including coding!).
 
-* 🌍  I'm based in New York
+* 🌍  I'm based in New Jersey
 * 🖥️  See my portfolio at [Heroku](http://germanalmonte.herokuapp.com)
 * ✉️  You can contact me at [german.a.almonte@gmail.com](mailto:german.a.almonte@gmail.com)
 * 🚀  I'm currently working on [A Web based 'Pokedex' using a public API](http://github.com/Gaalmonte/Pokedex)
