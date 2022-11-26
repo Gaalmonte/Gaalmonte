@@ -9,7 +9,7 @@ I'm a software Developer attending NJIT's Software Developer Bootcamp, I am also
 * 🌍  I'm based in New Jersey
 * 🖥️  See my portfolio at [Heroku](http://germanalmonte.herokuapp.com)
 * ✉️  You can contact me at [german.a.almonte@gmail.com](mailto:german.a.almonte@gmail.com)
-* 🚀  I'm currently working on [A Web based 'Pokedex' using a public API](http://github.com/Gaalmonte/Pokedex)
+* 🚀  I'm currently working on [Albertus, a sidescroller game]([http://github.com/Gaalmonte/Pokedex](https://github.com/Albertus-Development/Albertus))
 * 🧠  I'm learning Python && Data Structures + Algorithms
 * ⚡  I'm currently reinforcing my software testing knowledge.
 
