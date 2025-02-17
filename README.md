@@ -1,17 +1,10 @@
 Hi 👋 My name is German Almonte
 ===============================
 
-Software Developer
-------------------
+I'm a software Developer. As a hobby I enjoy playing video games, reading books and programming video games (but it does switch quite often).
 
-I'm a software Developer attending NJIT's Software Developer Bootcamp, I am also in the process of finishing my computer science bachelor's degree at NJIT. As a hobby I enjoy playing video games, reading personal development books and learning new languages (including coding!).
-
-* 🌍  I'm based in New Jersey
-* 🖥️  See my portfolio at [Heroku](http://germanalmonte.herokuapp.com)
+* 🌍  I'm based in Philadelphia
 * ✉️  You can contact me at [german.a.almonte@gmail.com](mailto:german.a.almonte@gmail.com)
-* 🚀  I'm currently working on [Albertus, a sidescroller game]([http://github.com/Gaalmonte/Pokedex](https://github.com/Albertus-Development/Albertus))
-* 🧠  I'm learning Python && Data Structures + Algorithms
-* ⚡  I'm currently reinforcing my software testing knowledge.
 
 ### Skills
 
